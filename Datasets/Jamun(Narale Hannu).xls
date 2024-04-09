@@ -1,0 +1,141 @@
+Both Price And Arrival from  01-Jan-2018 To 31-Dec-2023 Total Arrival- 521.63<div>
+	<table class="tableagmark_new" cellspacing="2" cellpadding="2" align="Center" rules="all" border="1" id="cphBody_GridViewBoth" style="font-size:0.9em;font-weight:normal;text-decoration:none;width:99%;">
+		<tr style="color:White;background-color:#214C5B;font-weight:bold;background-color:#99CCFF;">
+			<th scope="col">State Name</th><th scope="col">District Name</th><th scope="col">Market Name</th><th scope="col">Variety</th><th scope="col">Group</th><th scope="col">Arrivals (Tonnes)</th><th scope="col">Min Price (Rs./Quintal)</th><th scope="col">Max Price (Rs./Quintal)</th><th scope="col">Modal Price (Rs./Quintal)</th><th scope="col">Reported Date</th>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Anupur</td><td style="width:60px;">Anuppur</td><td style="width:60px;">Jamun</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">1500</td><td style="width:60px;">1500</td><td style="width:60px;">1500</td><td style="width:60px;">26 Jun 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Anupur</td><td style="width:60px;">Anuppur</td><td style="width:60px;">Jamun</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">3000</td><td style="width:60px;">3000</td><td style="width:60px;">3000</td><td style="width:60px;">24 Jun 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">2.00</td><td style="width:60px;">2000</td><td style="width:60px;">3000</td><td style="width:60px;">2500</td><td style="width:60px;">27 Jun 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.80</td><td style="width:60px;">2000</td><td style="width:60px;">3000</td><td style="width:60px;">2500</td><td style="width:60px;">24 Jul 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">1.80</td><td style="width:60px;">2000</td><td style="width:60px;">3000</td><td style="width:60px;">2500</td><td style="width:60px;">23 Jul 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">1.00</td><td style="width:60px;">2000</td><td style="width:60px;">3000</td><td style="width:60px;">2500</td><td style="width:60px;">22 Jul 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.50</td><td style="width:60px;">2000</td><td style="width:60px;">3000</td><td style="width:60px;">2500</td><td style="width:60px;">21 Jul 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">1.00</td><td style="width:60px;">2000</td><td style="width:60px;">3000</td><td style="width:60px;">2500</td><td style="width:60px;">18 Jul 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">2.00</td><td style="width:60px;">2000</td><td style="width:60px;">3000</td><td style="width:60px;">2500</td><td style="width:60px;">15 Jul 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">2.00</td><td style="width:60px;">2000</td><td style="width:60px;">3000</td><td style="width:60px;">2500</td><td style="width:60px;">14 Jul 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">2.00</td><td style="width:60px;">2000</td><td style="width:60px;">3000</td><td style="width:60px;">2500</td><td style="width:60px;">13 Jul 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">2.00</td><td style="width:60px;">2000</td><td style="width:60px;">3000</td><td style="width:60px;">2500</td><td style="width:60px;">11 Jul 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">1.50</td><td style="width:60px;">2000</td><td style="width:60px;">3000</td><td style="width:60px;">2500</td><td style="width:60px;">10 Jul 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.80</td><td style="width:60px;">2000</td><td style="width:60px;">3000</td><td style="width:60px;">2500</td><td style="width:60px;">06 Jul 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">1.00</td><td style="width:60px;">2000</td><td style="width:60px;">3000</td><td style="width:60px;">2500</td><td style="width:60px;">04 Jul 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">2.70</td><td style="width:60px;">2000</td><td style="width:60px;">3000</td><td style="width:60px;">2500</td><td style="width:60px;">03 Jul 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">3.50</td><td style="width:60px;">2000</td><td style="width:60px;">3000</td><td style="width:60px;">2500</td><td style="width:60px;">02 Jul 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">2.00</td><td style="width:60px;">2000</td><td style="width:60px;">3000</td><td style="width:60px;">2500</td><td style="width:60px;">30 Jun 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">3.50</td><td style="width:60px;">2000</td><td style="width:60px;">3000</td><td style="width:60px;">2500</td><td style="width:60px;">29 Jun 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">5.00</td><td style="width:60px;">2000</td><td style="width:60px;">3000</td><td style="width:60px;">2500</td><td style="width:60px;">27 Jun 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.80</td><td style="width:60px;">1500</td><td style="width:60px;">2500</td><td style="width:60px;">2000</td><td style="width:60px;">26 Jun 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.80</td><td style="width:60px;">2000</td><td style="width:60px;">4000</td><td style="width:60px;">3000</td><td style="width:60px;">25 Jun 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">2.20</td><td style="width:60px;">3000</td><td style="width:60px;">5000</td><td style="width:60px;">4000</td><td style="width:60px;">24 Jun 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">2.00</td><td style="width:60px;">2000</td><td style="width:60px;">4000</td><td style="width:60px;">3000</td><td style="width:60px;">23 Jun 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">2.00</td><td style="width:60px;">2000</td><td style="width:60px;">3000</td><td style="width:60px;">2500</td><td style="width:60px;">20 Jun 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">1.50</td><td style="width:60px;">1500</td><td style="width:60px;">2500</td><td style="width:60px;">2000</td><td style="width:60px;">16 Jul 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">3.00</td><td style="width:60px;">1500</td><td style="width:60px;">2500</td><td style="width:60px;">2000</td><td style="width:60px;">15 Jul 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">1.00</td><td style="width:60px;">1500</td><td style="width:60px;">2500</td><td style="width:60px;">2000</td><td style="width:60px;">05 Jul 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">2.00</td><td style="width:60px;">2000</td><td style="width:60px;">3000</td><td style="width:60px;">2500</td><td style="width:60px;">17 Jun 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Indore</td><td style="width:60px;">Indore(F&amp;V)</td><td style="width:60px;">Jamun</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">63.00</td><td style="width:60px;">800</td><td style="width:60px;">2000</td><td style="width:60px;">1200</td><td style="width:60px;">03 Jan 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Indore</td><td style="width:60px;">Indore(F&amp;V)</td><td style="width:60px;">Jamun</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">100.00</td><td style="width:60px;">400</td><td style="width:60px;">1400</td><td style="width:60px;">800</td><td style="width:60px;">31 Jan 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Indore</td><td style="width:60px;">Indore(F&amp;V)</td><td style="width:60px;">Jamun</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">170.00</td><td style="width:60px;">400</td><td style="width:60px;">1200</td><td style="width:60px;">800</td><td style="width:60px;">28 Jan 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Indore</td><td style="width:60px;">Indore(F&amp;V)</td><td style="width:60px;">Jamun</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">30.00</td><td style="width:60px;">1000</td><td style="width:60px;">4000</td><td style="width:60px;">2000</td><td style="width:60px;">27 Jan 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Indore</td><td style="width:60px;">Indore(F&amp;V)</td><td style="width:60px;">Jamun</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">20.00</td><td style="width:60px;">1000</td><td style="width:60px;">3500</td><td style="width:60px;">2500</td><td style="width:60px;">15 Jan 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Indore</td><td style="width:60px;">Indore(F&amp;V)</td><td style="width:60px;">Jamun</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">64.00</td><td style="width:60px;">1000</td><td style="width:60px;">4000</td><td style="width:60px;">2000</td><td style="width:60px;">14 Jan 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Katni</td><td style="width:60px;">Katni(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">1200</td><td style="width:60px;">1200</td><td style="width:60px;">1200</td><td style="width:60px;">05 Jul 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Katni</td><td style="width:60px;">Katni(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">1000</td><td style="width:60px;">1000</td><td style="width:60px;">1000</td><td style="width:60px;">04 Jul 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Katni</td><td style="width:60px;">Katni(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">1000</td><td style="width:60px;">1000</td><td style="width:60px;">1000</td><td style="width:60px;">03 Jul 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Katni</td><td style="width:60px;">Katni(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.15</td><td style="width:60px;">1000</td><td style="width:60px;">2000</td><td style="width:60px;">1000</td><td style="width:60px;">02 Jul 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Katni</td><td style="width:60px;">Katni(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.30</td><td style="width:60px;">500</td><td style="width:60px;">500</td><td style="width:60px;">500</td><td style="width:60px;">01 Jul 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Morena</td><td style="width:60px;">Morena(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">1.20</td><td style="width:60px;">4500</td><td style="width:60px;">4500</td><td style="width:60px;">4500</td><td style="width:60px;">29 Jun 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Morena</td><td style="width:60px;">Sabalgarh</td><td style="width:60px;">Jamun</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">20.00</td><td style="width:60px;">1000</td><td style="width:60px;">4000</td><td style="width:60px;">2500</td><td style="width:60px;">12 Jul 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Sheopur</td><td style="width:60px;">Syopurkalan(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.30</td><td style="width:60px;">2000</td><td style="width:60px;">3000</td><td style="width:60px;">2500</td><td style="width:60px;">04 Jul 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Sheopur</td><td style="width:60px;">Syopurkalan(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">2000</td><td style="width:60px;">2500</td><td style="width:60px;">2300</td><td style="width:60px;">26 Jun 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Sheopur</td><td style="width:60px;">Syopurkalan(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">1500</td><td style="width:60px;">2000</td><td style="width:60px;">1800</td><td style="width:60px;">25 Jun 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Sheopur</td><td style="width:60px;">Syopurkalan(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">2000</td><td style="width:60px;">3000</td><td style="width:60px;">2500</td><td style="width:60px;">24 Jun 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Sheopur</td><td style="width:60px;">Syopurkalan(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">3000</td><td style="width:60px;">3500</td><td style="width:60px;">3200</td><td style="width:60px;">27 Jun 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Sheopur</td><td style="width:60px;">Syopurkalan(F&amp;V)</td><td style="width:60px;">Other</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.30</td><td style="width:60px;">2000</td><td style="width:60px;">2100</td><td style="width:60px;">2050</td><td style="width:60px;">16 Jul 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Harda</td><td style="width:60px;">Timarni</td><td style="width:60px;">Jamun</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.01</td><td style="width:60px;">1500</td><td style="width:60px;">1500</td><td style="width:60px;">1500</td><td style="width:60px;">04 Jul 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Harda</td><td style="width:60px;">Timarni</td><td style="width:60px;">Jamun</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.01</td><td style="width:60px;">1000</td><td style="width:60px;">1000</td><td style="width:60px;">1000</td><td style="width:60px;">02 Jul 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Harda</td><td style="width:60px;">Timarni</td><td style="width:60px;">Jamun</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.01</td><td style="width:60px;">2000</td><td style="width:60px;">2000</td><td style="width:60px;">2000</td><td style="width:60px;">01 Jul 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Harda</td><td style="width:60px;">Timarni</td><td style="width:60px;">Jamun</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.02</td><td style="width:60px;">2000</td><td style="width:60px;">2000</td><td style="width:60px;">2000</td><td style="width:60px;">30 Jun 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Harda</td><td style="width:60px;">Timarni</td><td style="width:60px;">Jamun</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.01</td><td style="width:60px;">2500</td><td style="width:60px;">2500</td><td style="width:60px;">2500</td><td style="width:60px;">28 Jun 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Harda</td><td style="width:60px;">Timarni</td><td style="width:60px;">Jamun</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.01</td><td style="width:60px;">2500</td><td style="width:60px;">2500</td><td style="width:60px;">2500</td><td style="width:60px;">27 Jun 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Harda</td><td style="width:60px;">Timarni</td><td style="width:60px;">Jamun</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.05</td><td style="width:60px;">2500</td><td style="width:60px;">3000</td><td style="width:60px;">2750</td><td style="width:60px;">20 Jun 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Harda</td><td style="width:60px;">Timarni</td><td style="width:60px;">Jamun</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.03</td><td style="width:60px;">1500</td><td style="width:60px;">2000</td><td style="width:60px;">1750</td><td style="width:60px;">16 Jun 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Harda</td><td style="width:60px;">Timarni</td><td style="width:60px;">Jamun</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.01</td><td style="width:60px;">2500</td><td style="width:60px;">2500</td><td style="width:60px;">2500</td><td style="width:60px;">15 Jun 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Harda</td><td style="width:60px;">Timarni</td><td style="width:60px;">Jamun</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.02</td><td style="width:60px;">2500</td><td style="width:60px;">2500</td><td style="width:60px;">2500</td><td style="width:60px;">13 Jun 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Harda</td><td style="width:60px;">Timarni</td><td style="width:60px;">Jamun</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.03</td><td style="width:60px;">2000</td><td style="width:60px;">2500</td><td style="width:60px;">2250</td><td style="width:60px;">09 Jun 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Harda</td><td style="width:60px;">Timarni</td><td style="width:60px;">Jamun</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.05</td><td style="width:60px;">1500</td><td style="width:60px;">2500</td><td style="width:60px;">2000</td><td style="width:60px;">08 Jun 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Harda</td><td style="width:60px;">Timarni</td><td style="width:60px;">Jamun</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.02</td><td style="width:60px;">2000</td><td style="width:60px;">2000</td><td style="width:60px;">2000</td><td style="width:60px;">05 Jun 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Harda</td><td style="width:60px;">Timarni</td><td style="width:60px;">Jamun</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.02</td><td style="width:60px;">1500</td><td style="width:60px;">1500</td><td style="width:60px;">1500</td><td style="width:60px;">04 Jun 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Harda</td><td style="width:60px;">Timarni</td><td style="width:60px;">Jamun</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.01</td><td style="width:60px;">2000</td><td style="width:60px;">2000</td><td style="width:60px;">2000</td><td style="width:60px;">03 Jun 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Harda</td><td style="width:60px;">Timarni</td><td style="width:60px;">Jamun</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.01</td><td style="width:60px;">3000</td><td style="width:60px;">3000</td><td style="width:60px;">3000</td><td style="width:60px;">02 Jun 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Harda</td><td style="width:60px;">Timarni</td><td style="width:60px;">Jamun</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.13</td><td style="width:60px;">2000</td><td style="width:60px;">3000</td><td style="width:60px;">2500</td><td style="width:60px;">01 Jun 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Harda</td><td style="width:60px;">Timarni</td><td style="width:60px;">Jamun</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.01</td><td style="width:60px;">4000</td><td style="width:60px;">4000</td><td style="width:60px;">4000</td><td style="width:60px;">30 May 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Harda</td><td style="width:60px;">Timarni</td><td style="width:60px;">Jamun</td><td style="width:60px;">Fruits</td><td align="right" style="width:60px;">0.02</td><td style="width:60px;">3000</td><td style="width:60px;">3000</td><td style="width:60px;">3000</td><td style="width:60px;">29 May 2023</td>
+		</tr>
+	</table>
+</div>
