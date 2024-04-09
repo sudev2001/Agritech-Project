@@ -1,0 +1,21 @@
+Both Price And Arrival from  01-Jan-2018 To 31-Dec-2023 Total Arrival- 0.44<div>
+	<table class="tableagmark_new" cellspacing="2" cellpadding="2" align="Center" rules="all" border="1" id="cphBody_GridViewBoth" style="font-size:0.9em;font-weight:normal;text-decoration:none;width:99%;">
+		<tr style="color:White;background-color:#214C5B;font-weight:bold;background-color:#99CCFF;">
+			<th scope="col">State Name</th><th scope="col">District Name</th><th scope="col">Market Name</th><th scope="col">Variety</th><th scope="col">Group</th><th scope="col">Arrivals (Tonnes)</th><th scope="col">Min Price (Rs./Quintal)</th><th scope="col">Max Price (Rs./Quintal)</th><th scope="col">Modal Price (Rs./Quintal)</th><th scope="col">Reported Date</th>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Dewas</td><td style="width:60px;">Dewas</td><td style="width:60px;">Other</td><td style="width:60px;">Oil Seeds</td><td align="right" style="width:60px;">0.11</td><td style="width:60px;">3370</td><td style="width:60px;">3370</td><td style="width:60px;">3370</td><td style="width:60px;">02 Aug 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Dewas</td><td style="width:60px;">Dewas</td><td style="width:60px;">Other</td><td style="width:60px;">Oil Seeds</td><td align="right" style="width:60px;">0.05</td><td style="width:60px;">3425</td><td style="width:60px;">3425</td><td style="width:60px;">3425</td><td style="width:60px;">01 Aug 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Dewas</td><td style="width:60px;">Dewas</td><td style="width:60px;">Other</td><td style="width:60px;">Oil Seeds</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">3440</td><td style="width:60px;">3440</td><td style="width:60px;">3440</td><td style="width:60px;">25 Jul 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Dewas</td><td style="width:60px;">Dewas</td><td style="width:60px;">Other</td><td style="width:60px;">Oil Seeds</td><td align="right" style="width:60px;">0.09</td><td style="width:60px;">3300</td><td style="width:60px;">3300</td><td style="width:60px;">3300</td><td style="width:60px;">21 Jul 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Dewas</td><td style="width:60px;">Dewas</td><td style="width:60px;">Other</td><td style="width:60px;">Oil Seeds</td><td align="right" style="width:60px;">0.02</td><td style="width:60px;">3401</td><td style="width:60px;">3401</td><td style="width:60px;">3401</td><td style="width:60px;">12 Jul 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Dewas</td><td style="width:60px;">Dewas</td><td style="width:60px;">Other</td><td style="width:60px;">Oil Seeds</td><td align="right" style="width:60px;">0.01</td><td style="width:60px;">3301</td><td style="width:60px;">3301</td><td style="width:60px;">3301</td><td style="width:60px;">11 Jul 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Dewas</td><td style="width:60px;">Dewas</td><td style="width:60px;">Other</td><td style="width:60px;">Oil Seeds</td><td align="right" style="width:60px;">0.06</td><td style="width:60px;">3401</td><td style="width:60px;">3401</td><td style="width:60px;">3401</td><td style="width:60px;">07 Jul 2023</td>
+		</tr>
+	</table>
+</div>

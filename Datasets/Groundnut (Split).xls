@@ -1,0 +1,9 @@
+Both Price And Arrival from  01-Jan-2018 To 31-Dec-2023 Total Arrival- 514.00<div>
+	<table class="tableagmark_new" cellspacing="2" cellpadding="2" align="Center" rules="all" border="1" id="cphBody_GridViewBoth" style="font-size:0.9em;font-weight:normal;text-decoration:none;width:99%;">
+		<tr style="color:White;background-color:#214C5B;font-weight:bold;background-color:#99CCFF;">
+			<th scope="col">State Name</th><th scope="col">District Name</th><th scope="col">Market Name</th><th scope="col">Variety</th><th scope="col">Group</th><th scope="col">Arrivals (Tonnes)</th><th scope="col">Min Price (Rs./Quintal)</th><th scope="col">Max Price (Rs./Quintal)</th><th scope="col">Modal Price (Rs./Quintal)</th><th scope="col">Reported Date</th>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Khandwa</td><td style="width:60px;">Khandwa</td><td style="width:60px;">Groundnut(Split)</td><td style="width:60px;">Oil Seeds</td><td align="right" style="width:60px;">514.00</td><td style="width:60px;">5005</td><td style="width:60px;">5950</td><td style="width:60px;">5790</td><td style="width:60px;">29 May 2021</td>
+		</tr>
+	</table>
+</div>
