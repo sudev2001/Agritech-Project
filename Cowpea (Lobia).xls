@@ -1,0 +1,21 @@
+Both Price And Arrival from  07-Jan-2018 To 31-Dec-2023 Total Arrival- 51.70<div>
+	<table class="tableagmark_new" cellspacing="2" cellpadding="2" align="Center" rules="all" border="1" id="cphBody_GridViewBoth" style="font-size:0.9em;font-weight:normal;text-decoration:none;width:99%;">
+		<tr style="color:White;background-color:#214C5B;font-weight:bold;background-color:#99CCFF;">
+			<th scope="col">State Name</th><th scope="col">District Name</th><th scope="col">Market Name</th><th scope="col">Variety</th><th scope="col">Group</th><th scope="col">Arrivals (Tonnes)</th><th scope="col">Min Price (Rs./Quintal)</th><th scope="col">Max Price (Rs./Quintal)</th><th scope="col">Modal Price (Rs./Quintal)</th><th scope="col">Reported Date</th>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Khargone</td><td style="width:60px;">Kasrawad</td><td style="width:60px;">Cowpea (Whole)</td><td style="width:60px;">Pulses</td><td align="right" style="width:60px;">8.30</td><td style="width:60px;">3629</td><td style="width:60px;">6750</td><td style="width:60px;">5500</td><td style="width:60px;">26 Nov 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Khargone</td><td style="width:60px;">Kasrawad</td><td style="width:60px;">Cowpea (Whole)</td><td style="width:60px;">Pulses</td><td align="right" style="width:60px;">13.20</td><td style="width:60px;">6700</td><td style="width:60px;">6700</td><td style="width:60px;">6700</td><td style="width:60px;">27 Oct 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Khargone</td><td style="width:60px;">Kasrawad</td><td style="width:60px;">Cowpea (Whole)</td><td style="width:60px;">Pulses</td><td align="right" style="width:60px;">0.80</td><td style="width:60px;">9200</td><td style="width:60px;">9225</td><td style="width:60px;">9215</td><td style="width:60px;">25 Jul 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Khargone</td><td style="width:60px;">Kasrawad</td><td style="width:60px;">Cowpea (Whole)</td><td style="width:60px;">Pulses</td><td align="right" style="width:60px;">6.10</td><td style="width:60px;">9315</td><td style="width:60px;">9315</td><td style="width:60px;">9315</td><td style="width:60px;">29 May 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Khargone</td><td style="width:60px;">Kasrawad</td><td style="width:60px;">Cowpea (Whole)</td><td style="width:60px;">Pulses</td><td align="right" style="width:60px;">16.50</td><td style="width:60px;">6979</td><td style="width:60px;">9359</td><td style="width:60px;">8159</td><td style="width:60px;">18 May 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Khargone</td><td style="width:60px;">Kasrawad</td><td style="width:60px;">Cowpea (Whole)</td><td style="width:60px;">Pulses</td><td align="right" style="width:60px;">6.10</td><td style="width:60px;">9500</td><td style="width:60px;">9500</td><td style="width:60px;">9500</td><td style="width:60px;">09 Jan 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Cowpea (Whole)</td><td style="width:60px;">Pulses</td><td align="right" style="width:60px;">0.70</td><td style="width:60px;">14702</td><td style="width:60px;">15700</td><td style="width:60px;">15151</td><td style="width:60px;">27 Apr 2018</td>
+		</tr>
+	</table>
+</div>

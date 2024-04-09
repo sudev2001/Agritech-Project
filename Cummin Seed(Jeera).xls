@@ -1,0 +1,595 @@
+Both Price And Arrival from  01-Jan-2018 To 31-Dec-2023 Total Arrival- 294.06<div>
+	<table class="tableagmark_new" cellspacing="2" cellpadding="2" align="Center" rules="all" border="1" id="cphBody_GridViewBoth" style="font-size:0.9em;font-weight:normal;text-decoration:none;width:99%;">
+		<tr style="color:White;background-color:#214C5B;font-weight:bold;background-color:#99CCFF;">
+			<th scope="col">State Name</th><th scope="col">District Name</th><th scope="col">Market Name</th><th scope="col">Variety</th><th scope="col">Group</th><th scope="col">Arrivals (Tonnes)</th><th scope="col">Min Price (Rs./Quintal)</th><th scope="col">Max Price (Rs./Quintal)</th><th scope="col">Modal Price (Rs./Quintal)</th><th scope="col">Reported Date</th>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bold</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.08</td><td style="width:60px;">17800</td><td style="width:60px;">17800</td><td style="width:60px;">17800</td><td style="width:60px;">13 Sep 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bold</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">24.00</td><td style="width:60px;">6000</td><td style="width:60px;">7600</td><td style="width:60px;">7600</td><td style="width:60px;">28 Jun 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bold</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.42</td><td style="width:60px;">14000</td><td style="width:60px;">14000</td><td style="width:60px;">14000</td><td style="width:60px;">26 Jun 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bold</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.80</td><td style="width:60px;">14000</td><td style="width:60px;">14500</td><td style="width:60px;">14500</td><td style="width:60px;">07 Jun 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bold</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.60</td><td style="width:60px;">17200</td><td style="width:60px;">17500</td><td style="width:60px;">17500</td><td style="width:60px;">24 May 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bold</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">14.40</td><td style="width:60px;">5500</td><td style="width:60px;">5500</td><td style="width:60px;">5500</td><td style="width:60px;">08 May 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bold</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.70</td><td style="width:60px;">19200</td><td style="width:60px;">19200</td><td style="width:60px;">19200</td><td style="width:60px;">07 May 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bold</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">2.20</td><td style="width:60px;">19300</td><td style="width:60px;">19300</td><td style="width:60px;">19300</td><td style="width:60px;">19 Sep 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bold</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">3.00</td><td style="width:60px;">13500</td><td style="width:60px;">13500</td><td style="width:60px;">13500</td><td style="width:60px;">30 Jun 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bold</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.20</td><td style="width:60px;">16700</td><td style="width:60px;">16700</td><td style="width:60px;">16700</td><td style="width:60px;">31 May 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bold</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">22.50</td><td style="width:60px;">14000</td><td style="width:60px;">14000</td><td style="width:60px;">14000</td><td style="width:60px;">12 May 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bold</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">8.20</td><td style="width:60px;">12000</td><td style="width:60px;">12000</td><td style="width:60px;">12000</td><td style="width:60px;">04 May 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bhopal</td><td style="width:60px;">Bold</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">2.30</td><td style="width:60px;">17100</td><td style="width:60px;">17100</td><td style="width:60px;">17100</td><td style="width:60px;">23 Apr 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Shehdol</td><td style="width:60px;">Budhar</td><td style="width:60px;">Bold</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.06</td><td style="width:60px;">14285</td><td style="width:60px;">14285</td><td style="width:60px;">14285</td><td style="width:60px;">09 Jul 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Shehdol</td><td style="width:60px;">Budhar</td><td style="width:60px;">Bold</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">14300</td><td style="width:60px;">14300</td><td style="width:60px;">14300</td><td style="width:60px;">21 Jun 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Shehdol</td><td style="width:60px;">Budhar</td><td style="width:60px;">Bold</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.40</td><td style="width:60px;">16000</td><td style="width:60px;">16000</td><td style="width:60px;">16000</td><td style="width:60px;">06 Mar 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">51000</td><td style="width:60px;">51000</td><td style="width:60px;">51000</td><td style="width:60px;">21 Aug 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">51000</td><td style="width:60px;">51000</td><td style="width:60px;">51000</td><td style="width:60px;">26 Jul 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">27.30</td><td style="width:60px;">5000</td><td style="width:60px;">8311</td><td style="width:60px;">7300</td><td style="width:60px;">25 Jul 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">50751</td><td style="width:60px;">50751</td><td style="width:60px;">50751</td><td style="width:60px;">27 Jun 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">36800</td><td style="width:60px;">36800</td><td style="width:60px;">36800</td><td style="width:60px;">15 Jun 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">39400</td><td style="width:60px;">39400</td><td style="width:60px;">39400</td><td style="width:60px;">23 May 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">41000</td><td style="width:60px;">41000</td><td style="width:60px;">41000</td><td style="width:60px;">17 May 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">39401</td><td style="width:60px;">39401</td><td style="width:60px;">39401</td><td style="width:60px;">16 May 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">40901</td><td style="width:60px;">42100</td><td style="width:60px;">41000</td><td style="width:60px;">15 May 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">42600</td><td style="width:60px;">47750</td><td style="width:60px;">44400</td><td style="width:60px;">12 May 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">41000</td><td style="width:60px;">41000</td><td style="width:60px;">41000</td><td style="width:60px;">10 May 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">34000</td><td style="width:60px;">45800</td><td style="width:60px;">43011</td><td style="width:60px;">08 May 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">12501</td><td style="width:60px;">42000</td><td style="width:60px;">33500</td><td style="width:60px;">27 Apr 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">36600</td><td style="width:60px;">38000</td><td style="width:60px;">37000</td><td style="width:60px;">26 Apr 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">37000</td><td style="width:60px;">37000</td><td style="width:60px;">37000</td><td style="width:60px;">25 Apr 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">36001</td><td style="width:60px;">36001</td><td style="width:60px;">36001</td><td style="width:60px;">24 Apr 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">33000</td><td style="width:60px;">41000</td><td style="width:60px;">39300</td><td style="width:60px;">15 Apr 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">37500</td><td style="width:60px;">42650</td><td style="width:60px;">41000</td><td style="width:60px;">11 Apr 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">40901</td><td style="width:60px;">40901</td><td style="width:60px;">40901</td><td style="width:60px;">10 Apr 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">25950</td><td style="width:60px;">35000</td><td style="width:60px;">31700</td><td style="width:60px;">08 Apr 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">12600</td><td style="width:60px;">19501</td><td style="width:60px;">16000</td><td style="width:60px;">27 Mar 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">27200</td><td style="width:60px;">28501</td><td style="width:60px;">28500</td><td style="width:60px;">28 Feb 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">13600</td><td style="width:60px;">13600</td><td style="width:60px;">13600</td><td style="width:60px;">23 Feb 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">18000</td><td style="width:60px;">21000</td><td style="width:60px;">19000</td><td style="width:60px;">21 Feb 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">7500</td><td style="width:60px;">26400</td><td style="width:60px;">11500</td><td style="width:60px;">01 Feb 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">28001</td><td style="width:60px;">28001</td><td style="width:60px;">28001</td><td style="width:60px;">31 Jan 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">30001</td><td style="width:60px;">30525</td><td style="width:60px;">30300</td><td style="width:60px;">23 Jan 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">27801</td><td style="width:60px;">33000</td><td style="width:60px;">30001</td><td style="width:60px;">10 Jan 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">16000</td><td style="width:60px;">23001</td><td style="width:60px;">16001</td><td style="width:60px;">03 Jan 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">29500</td><td style="width:60px;">29500</td><td style="width:60px;">29500</td><td style="width:60px;">02 Jan 2023</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">22370</td><td style="width:60px;">26100</td><td style="width:60px;">24000</td><td style="width:60px;">28 Dec 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">24501</td><td style="width:60px;">24501</td><td style="width:60px;">24501</td><td style="width:60px;">23 Dec 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">22500</td><td style="width:60px;">22500</td><td style="width:60px;">22500</td><td style="width:60px;">22 Dec 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.30</td><td style="width:60px;">12400</td><td style="width:60px;">18601</td><td style="width:60px;">16000</td><td style="width:60px;">19 Dec 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">21551</td><td style="width:60px;">23600</td><td style="width:60px;">22400</td><td style="width:60px;">15 Dec 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">18400</td><td style="width:60px;">18400</td><td style="width:60px;">18400</td><td style="width:60px;">13 Dec 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">20500</td><td style="width:60px;">20851</td><td style="width:60px;">20611</td><td style="width:60px;">12 Dec 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">22501</td><td style="width:60px;">22501</td><td style="width:60px;">22501</td><td style="width:60px;">22 Nov 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.50</td><td style="width:60px;">11200</td><td style="width:60px;">19500</td><td style="width:60px;">16000</td><td style="width:60px;">31 Oct 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">20655</td><td style="width:60px;">20655</td><td style="width:60px;">20655</td><td style="width:60px;">11 Oct 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">14255</td><td style="width:60px;">17550</td><td style="width:60px;">15000</td><td style="width:60px;">06 Oct 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.30</td><td style="width:60px;">9250</td><td style="width:60px;">19101</td><td style="width:60px;">17000</td><td style="width:60px;">29 Sep 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.40</td><td style="width:60px;">19075</td><td style="width:60px;">19100</td><td style="width:60px;">19090</td><td style="width:60px;">28 Sep 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">19000</td><td style="width:60px;">19000</td><td style="width:60px;">19000</td><td style="width:60px;">20 Sep 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.30</td><td style="width:60px;">12000</td><td style="width:60px;">15200</td><td style="width:60px;">14500</td><td style="width:60px;">19 Sep 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.50</td><td style="width:60px;">21250</td><td style="width:60px;">21700</td><td style="width:60px;">21450</td><td style="width:60px;">16 Sep 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.50</td><td style="width:60px;">16600</td><td style="width:60px;">22000</td><td style="width:60px;">21700</td><td style="width:60px;">15 Sep 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">21200</td><td style="width:60px;">21900</td><td style="width:60px;">21680</td><td style="width:60px;">14 Sep 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.00</td><td style="width:60px;">17000</td><td style="width:60px;">21200</td><td style="width:60px;">19300</td><td style="width:60px;">13 Sep 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">19300</td><td style="width:60px;">19300</td><td style="width:60px;">19300</td><td style="width:60px;">12 Sep 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">20600</td><td style="width:60px;">20600</td><td style="width:60px;">20600</td><td style="width:60px;">31 Aug 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">20700</td><td style="width:60px;">20700</td><td style="width:60px;">20700</td><td style="width:60px;">25 Aug 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">20300</td><td style="width:60px;">20300</td><td style="width:60px;">20300</td><td style="width:60px;">24 Aug 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">20650</td><td style="width:60px;">20701</td><td style="width:60px;">20700</td><td style="width:60px;">17 Aug 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">20901</td><td style="width:60px;">20901</td><td style="width:60px;">20901</td><td style="width:60px;">02 Aug 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.70</td><td style="width:60px;">14000</td><td style="width:60px;">16602</td><td style="width:60px;">16000</td><td style="width:60px;">22 Jul 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">13400</td><td style="width:60px;">13400</td><td style="width:60px;">13400</td><td style="width:60px;">19 Jul 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.60</td><td style="width:60px;">16900</td><td style="width:60px;">19301</td><td style="width:60px;">17300</td><td style="width:60px;">15 Jul 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">19200</td><td style="width:60px;">19500</td><td style="width:60px;">19320</td><td style="width:60px;">04 Jul 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.90</td><td style="width:60px;">5171</td><td style="width:60px;">19875</td><td style="width:60px;">19000</td><td style="width:60px;">27 Jun 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">9000</td><td style="width:60px;">18300</td><td style="width:60px;">18000</td><td style="width:60px;">18 Jun 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">17551</td><td style="width:60px;">19001</td><td style="width:60px;">18600</td><td style="width:60px;">26 Apr 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">17890</td><td style="width:60px;">19050</td><td style="width:60px;">18000</td><td style="width:60px;">25 Apr 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">13000</td><td style="width:60px;">21100</td><td style="width:60px;">17800</td><td style="width:60px;">07 Apr 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">17800</td><td style="width:60px;">17800</td><td style="width:60px;">17800</td><td style="width:60px;">19 Mar 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">18700</td><td style="width:60px;">18700</td><td style="width:60px;">18700</td><td style="width:60px;">17 Mar 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">18000</td><td style="width:60px;">18601</td><td style="width:60px;">18500</td><td style="width:60px;">15 Mar 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">5000</td><td style="width:60px;">5000</td><td style="width:60px;">5000</td><td style="width:60px;">11 Mar 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">4701</td><td style="width:60px;">10000</td><td style="width:60px;">9000</td><td style="width:60px;">09 Mar 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.30</td><td style="width:60px;">5500</td><td style="width:60px;">18510</td><td style="width:60px;">15000</td><td style="width:60px;">08 Mar 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.30</td><td style="width:60px;">10000</td><td style="width:60px;">10000</td><td style="width:60px;">10000</td><td style="width:60px;">07 Mar 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">18100</td><td style="width:60px;">20300</td><td style="width:60px;">20000</td><td style="width:60px;">05 Mar 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">18300</td><td style="width:60px;">18900</td><td style="width:60px;">18450</td><td style="width:60px;">02 Mar 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">18800</td><td style="width:60px;">21100</td><td style="width:60px;">19900</td><td style="width:60px;">24 Feb 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.70</td><td style="width:60px;">18400</td><td style="width:60px;">18900</td><td style="width:60px;">18550</td><td style="width:60px;">23 Feb 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.80</td><td style="width:60px;">10000</td><td style="width:60px;">18801</td><td style="width:60px;">14500</td><td style="width:60px;">22 Feb 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">10101</td><td style="width:60px;">18680</td><td style="width:60px;">18101</td><td style="width:60px;">21 Feb 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">9600</td><td style="width:60px;">18500</td><td style="width:60px;">13900</td><td style="width:60px;">19 Feb 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">17501</td><td style="width:60px;">17501</td><td style="width:60px;">17501</td><td style="width:60px;">18 Feb 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.50</td><td style="width:60px;">16000</td><td style="width:60px;">18000</td><td style="width:60px;">17700</td><td style="width:60px;">17 Feb 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">17000</td><td style="width:60px;">17002</td><td style="width:60px;">17002</td><td style="width:60px;">15 Feb 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">17600</td><td style="width:60px;">19500</td><td style="width:60px;">18401</td><td style="width:60px;">14 Feb 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.80</td><td style="width:60px;">8900</td><td style="width:60px;">19300</td><td style="width:60px;">18000</td><td style="width:60px;">11 Feb 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">14650</td><td style="width:60px;">14650</td><td style="width:60px;">14650</td><td style="width:60px;">09 Feb 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.10</td><td style="width:60px;">6500</td><td style="width:60px;">16600</td><td style="width:60px;">14501</td><td style="width:60px;">05 Feb 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.40</td><td style="width:60px;">10300</td><td style="width:60px;">15201</td><td style="width:60px;">12000</td><td style="width:60px;">04 Feb 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.80</td><td style="width:60px;">9000</td><td style="width:60px;">16501</td><td style="width:60px;">15000</td><td style="width:60px;">03 Feb 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.40</td><td style="width:60px;">9202</td><td style="width:60px;">17000</td><td style="width:60px;">15600</td><td style="width:60px;">02 Feb 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.00</td><td style="width:60px;">10650</td><td style="width:60px;">15170</td><td style="width:60px;">12850</td><td style="width:60px;">01 Feb 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">4500</td><td style="width:60px;">15801</td><td style="width:60px;">12000</td><td style="width:60px;">31 Jan 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">13950</td><td style="width:60px;">13950</td><td style="width:60px;">13950</td><td style="width:60px;">29 Jan 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">8000</td><td style="width:60px;">16301</td><td style="width:60px;">12500</td><td style="width:60px;">28 Jan 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">13001</td><td style="width:60px;">13001</td><td style="width:60px;">13001</td><td style="width:60px;">24 Jan 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.30</td><td style="width:60px;">12151</td><td style="width:60px;">14000</td><td style="width:60px;">13500</td><td style="width:60px;">22 Jan 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.90</td><td style="width:60px;">9400</td><td style="width:60px;">15700</td><td style="width:60px;">12000</td><td style="width:60px;">21 Jan 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">4.00</td><td style="width:60px;">7000</td><td style="width:60px;">16010</td><td style="width:60px;">14301</td><td style="width:60px;">20 Jan 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.90</td><td style="width:60px;">9500</td><td style="width:60px;">15250</td><td style="width:60px;">11000</td><td style="width:60px;">18 Jan 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">13800</td><td style="width:60px;">16000</td><td style="width:60px;">14700</td><td style="width:60px;">15 Jan 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">12900</td><td style="width:60px;">16600</td><td style="width:60px;">14900</td><td style="width:60px;">13 Jan 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.30</td><td style="width:60px;">7000</td><td style="width:60px;">15500</td><td style="width:60px;">14701</td><td style="width:60px;">12 Jan 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">9600</td><td style="width:60px;">16000</td><td style="width:60px;">14000</td><td style="width:60px;">11 Jan 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.30</td><td style="width:60px;">5500</td><td style="width:60px;">15350</td><td style="width:60px;">13500</td><td style="width:60px;">10 Jan 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">15000</td><td style="width:60px;">15000</td><td style="width:60px;">15000</td><td style="width:60px;">03 Jan 2022</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">13200</td><td style="width:60px;">13200</td><td style="width:60px;">13200</td><td style="width:60px;">27 Dec 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.40</td><td style="width:60px;">9500</td><td style="width:60px;">12675</td><td style="width:60px;">10000</td><td style="width:60px;">18 Dec 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.30</td><td style="width:60px;">6790</td><td style="width:60px;">13020</td><td style="width:60px;">11000</td><td style="width:60px;">12 Dec 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">12601</td><td style="width:60px;">12601</td><td style="width:60px;">12601</td><td style="width:60px;">22 Nov 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">12500</td><td style="width:60px;">12500</td><td style="width:60px;">12500</td><td style="width:60px;">19 Nov 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">13609</td><td style="width:60px;">13609</td><td style="width:60px;">13609</td><td style="width:60px;">18 Nov 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.30</td><td style="width:60px;">13851</td><td style="width:60px;">13851</td><td style="width:60px;">13851</td><td style="width:60px;">02 Nov 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.50</td><td style="width:60px;">14201</td><td style="width:60px;">14875</td><td style="width:60px;">14800</td><td style="width:60px;">01 Nov 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">14675</td><td style="width:60px;">14675</td><td style="width:60px;">14675</td><td style="width:60px;">30 Oct 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">14101</td><td style="width:60px;">14101</td><td style="width:60px;">14101</td><td style="width:60px;">18 Oct 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.90</td><td style="width:60px;">11425</td><td style="width:60px;">15313</td><td style="width:60px;">12201</td><td style="width:60px;">17 Oct 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.30</td><td style="width:60px;">9000</td><td style="width:60px;">14600</td><td style="width:60px;">12000</td><td style="width:60px;">16 Oct 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">4.60</td><td style="width:60px;">13001</td><td style="width:60px;">14800</td><td style="width:60px;">14280</td><td style="width:60px;">15 Oct 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.30</td><td style="width:60px;">2000</td><td style="width:60px;">9510</td><td style="width:60px;">8000</td><td style="width:60px;">26 Sep 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">10700</td><td style="width:60px;">13200</td><td style="width:60px;">12000</td><td style="width:60px;">25 Sep 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.40</td><td style="width:60px;">12300</td><td style="width:60px;">14201</td><td style="width:60px;">13700</td><td style="width:60px;">23 Sep 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">13800</td><td style="width:60px;">13800</td><td style="width:60px;">13800</td><td style="width:60px;">21 Sep 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.40</td><td style="width:60px;">11800</td><td style="width:60px;">14810</td><td style="width:60px;">12000</td><td style="width:60px;">06 Sep 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">3.80</td><td style="width:60px;">3300</td><td style="width:60px;">14850</td><td style="width:60px;">9400</td><td style="width:60px;">05 Sep 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">14501</td><td style="width:60px;">14501</td><td style="width:60px;">14501</td><td style="width:60px;">04 Sep 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">14651</td><td style="width:60px;">14651</td><td style="width:60px;">14651</td><td style="width:60px;">26 Aug 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.60</td><td style="width:60px;">8500</td><td style="width:60px;">15600</td><td style="width:60px;">14200</td><td style="width:60px;">19 Aug 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.50</td><td style="width:60px;">11001</td><td style="width:60px;">13700</td><td style="width:60px;">11500</td><td style="width:60px;">13 Aug 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.40</td><td style="width:60px;">12000</td><td style="width:60px;">14901</td><td style="width:60px;">13400</td><td style="width:60px;">07 Aug 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.60</td><td style="width:60px;">14000</td><td style="width:60px;">15800</td><td style="width:60px;">15500</td><td style="width:60px;">06 Aug 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">13000</td><td style="width:60px;">15201</td><td style="width:60px;">15000</td><td style="width:60px;">03 Aug 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.80</td><td style="width:60px;">14500</td><td style="width:60px;">16501</td><td style="width:60px;">15270</td><td style="width:60px;">30 Jul 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.30</td><td style="width:60px;">12000</td><td style="width:60px;">15876</td><td style="width:60px;">14400</td><td style="width:60px;">29 Jul 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.90</td><td style="width:60px;">14000</td><td style="width:60px;">15901</td><td style="width:60px;">14600</td><td style="width:60px;">23 Jul 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.90</td><td style="width:60px;">13200</td><td style="width:60px;">16901</td><td style="width:60px;">16000</td><td style="width:60px;">22 Jul 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.50</td><td style="width:60px;">12700</td><td style="width:60px;">16800</td><td style="width:60px;">15000</td><td style="width:60px;">20 Jul 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">15800</td><td style="width:60px;">15800</td><td style="width:60px;">15800</td><td style="width:60px;">19 Jul 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.00</td><td style="width:60px;">10000</td><td style="width:60px;">15800</td><td style="width:60px;">14000</td><td style="width:60px;">17 Jul 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">14400</td><td style="width:60px;">14400</td><td style="width:60px;">14400</td><td style="width:60px;">16 Jul 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">15401</td><td style="width:60px;">15401</td><td style="width:60px;">15401</td><td style="width:60px;">15 Jul 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.30</td><td style="width:60px;">10501</td><td style="width:60px;">11000</td><td style="width:60px;">11000</td><td style="width:60px;">10 Jul 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">14300</td><td style="width:60px;">14300</td><td style="width:60px;">14300</td><td style="width:60px;">08 Jul 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">14410</td><td style="width:60px;">14410</td><td style="width:60px;">14410</td><td style="width:60px;">29 Jun 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.30</td><td style="width:60px;">7000</td><td style="width:60px;">13000</td><td style="width:60px;">11200</td><td style="width:60px;">24 Jun 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">15550</td><td style="width:60px;">15550</td><td style="width:60px;">15550</td><td style="width:60px;">21 Jun 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">13700</td><td style="width:60px;">13700</td><td style="width:60px;">13700</td><td style="width:60px;">19 Jun 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">15000</td><td style="width:60px;">15000</td><td style="width:60px;">15000</td><td style="width:60px;">17 Jun 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.60</td><td style="width:60px;">12301</td><td style="width:60px;">15401</td><td style="width:60px;">14500</td><td style="width:60px;">13 Jun 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.60</td><td style="width:60px;">13001</td><td style="width:60px;">15081</td><td style="width:60px;">14800</td><td style="width:60px;">12 Jun 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.70</td><td style="width:60px;">9500</td><td style="width:60px;">14611</td><td style="width:60px;">13801</td><td style="width:60px;">10 Jun 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.00</td><td style="width:60px;">10301</td><td style="width:60px;">16600</td><td style="width:60px;">13000</td><td style="width:60px;">07 Jun 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">8700</td><td style="width:60px;">9501</td><td style="width:60px;">9000</td><td style="width:60px;">06 Jun 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.50</td><td style="width:60px;">12900</td><td style="width:60px;">14300</td><td style="width:60px;">13500</td><td style="width:60px;">04 Jun 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">15000</td><td style="width:60px;">15000</td><td style="width:60px;">15000</td><td style="width:60px;">30 May 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.90</td><td style="width:60px;">9440</td><td style="width:60px;">15700</td><td style="width:60px;">15000</td><td style="width:60px;">28 May 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.80</td><td style="width:60px;">11501</td><td style="width:60px;">15440</td><td style="width:60px;">14500</td><td style="width:60px;">27 May 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.60</td><td style="width:60px;">10600</td><td style="width:60px;">15900</td><td style="width:60px;">15000</td><td style="width:60px;">22 May 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">14600</td><td style="width:60px;">14600</td><td style="width:60px;">14600</td><td style="width:60px;">14 May 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.60</td><td style="width:60px;">8000</td><td style="width:60px;">15701</td><td style="width:60px;">14900</td><td style="width:60px;">13 May 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.00</td><td style="width:60px;">11050</td><td style="width:60px;">15501</td><td style="width:60px;">14000</td><td style="width:60px;">10 May 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">14201</td><td style="width:60px;">14201</td><td style="width:60px;">14201</td><td style="width:60px;">09 May 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.30</td><td style="width:60px;">12500</td><td style="width:60px;">15450</td><td style="width:60px;">14000</td><td style="width:60px;">06 May 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.40</td><td style="width:60px;">13500</td><td style="width:60px;">14501</td><td style="width:60px;">14301</td><td style="width:60px;">02 May 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">15000</td><td style="width:60px;">15000</td><td style="width:60px;">15000</td><td style="width:60px;">01 May 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.70</td><td style="width:60px;">12002</td><td style="width:60px;">14890</td><td style="width:60px;">13500</td><td style="width:60px;">29 Apr 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.70</td><td style="width:60px;">12200</td><td style="width:60px;">15401</td><td style="width:60px;">14400</td><td style="width:60px;">26 Apr 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.30</td><td style="width:60px;">11401</td><td style="width:60px;">11401</td><td style="width:60px;">11401</td><td style="width:60px;">25 Apr 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.30</td><td style="width:60px;">12301</td><td style="width:60px;">12301</td><td style="width:60px;">12301</td><td style="width:60px;">23 Apr 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.00</td><td style="width:60px;">13400</td><td style="width:60px;">15500</td><td style="width:60px;">15240</td><td style="width:60px;">22 Apr 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">13650</td><td style="width:60px;">13650</td><td style="width:60px;">13650</td><td style="width:60px;">20 Apr 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.00</td><td style="width:60px;">12001</td><td style="width:60px;">14700</td><td style="width:60px;">13526</td><td style="width:60px;">18 Apr 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">12800</td><td style="width:60px;">12800</td><td style="width:60px;">12800</td><td style="width:60px;">10 Apr 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">13800</td><td style="width:60px;">13800</td><td style="width:60px;">13800</td><td style="width:60px;">08 Apr 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.60</td><td style="width:60px;">13450</td><td style="width:60px;">14250</td><td style="width:60px;">13600</td><td style="width:60px;">05 Apr 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">2.60</td><td style="width:60px;">10700</td><td style="width:60px;">14900</td><td style="width:60px;">12300</td><td style="width:60px;">04 Apr 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">12200</td><td style="width:60px;">12200</td><td style="width:60px;">12200</td><td style="width:60px;">03 Apr 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">6.40</td><td style="width:60px;">6600</td><td style="width:60px;">15000</td><td style="width:60px;">13100</td><td style="width:60px;">02 Apr 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.50</td><td style="width:60px;">10600</td><td style="width:60px;">13455</td><td style="width:60px;">13325</td><td style="width:60px;">28 Mar 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">6000</td><td style="width:60px;">6000</td><td style="width:60px;">6000</td><td style="width:60px;">27 Mar 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">13500</td><td style="width:60px;">13500</td><td style="width:60px;">13500</td><td style="width:60px;">22 Mar 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.50</td><td style="width:60px;">12801</td><td style="width:60px;">15301</td><td style="width:60px;">13500</td><td style="width:60px;">18 Mar 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.80</td><td style="width:60px;">7650</td><td style="width:60px;">12000</td><td style="width:60px;">10600</td><td style="width:60px;">07 Mar 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">15000</td><td style="width:60px;">15000</td><td style="width:60px;">15000</td><td style="width:60px;">18 Feb 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">13751</td><td style="width:60px;">14251</td><td style="width:60px;">14200</td><td style="width:60px;">13 Feb 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">4500</td><td style="width:60px;">4500</td><td style="width:60px;">4500</td><td style="width:60px;">07 Feb 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">16100</td><td style="width:60px;">16100</td><td style="width:60px;">16100</td><td style="width:60px;">21 Jan 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.30</td><td style="width:60px;">11800</td><td style="width:60px;">15000</td><td style="width:60px;">13000</td><td style="width:60px;">01 Jan 2019</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">16421</td><td style="width:60px;">16421</td><td style="width:60px;">16421</td><td style="width:60px;">27 Dec 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.30</td><td style="width:60px;">16400</td><td style="width:60px;">17325</td><td style="width:60px;">16600</td><td style="width:60px;">17 Dec 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">17352</td><td style="width:60px;">17352</td><td style="width:60px;">17352</td><td style="width:60px;">14 Dec 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">16000</td><td style="width:60px;">16000</td><td style="width:60px;">16000</td><td style="width:60px;">06 Dec 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">16700</td><td style="width:60px;">16700</td><td style="width:60px;">16700</td><td style="width:60px;">01 Dec 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">17911</td><td style="width:60px;">17911</td><td style="width:60px;">17911</td><td style="width:60px;">19 Nov 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.90</td><td style="width:60px;">17301</td><td style="width:60px;">19775</td><td style="width:60px;">18500</td><td style="width:60px;">03 Nov 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.50</td><td style="width:60px;">13100</td><td style="width:60px;">18650</td><td style="width:60px;">18151</td><td style="width:60px;">25 Oct 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.70</td><td style="width:60px;">17701</td><td style="width:60px;">17701</td><td style="width:60px;">17701</td><td style="width:60px;">15 Oct 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.40</td><td style="width:60px;">16800</td><td style="width:60px;">16800</td><td style="width:60px;">16800</td><td style="width:60px;">03 Oct 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.60</td><td style="width:60px;">14530</td><td style="width:60px;">17500</td><td style="width:60px;">15000</td><td style="width:60px;">29 Sep 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.00</td><td style="width:60px;">9900</td><td style="width:60px;">16831</td><td style="width:60px;">15850</td><td style="width:60px;">27 Sep 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.10</td><td style="width:60px;">15800</td><td style="width:60px;">17200</td><td style="width:60px;">16000</td><td style="width:60px;">26 Sep 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.30</td><td style="width:60px;">3800</td><td style="width:60px;">4414</td><td style="width:60px;">4000</td><td style="width:60px;">25 Sep 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">16251</td><td style="width:60px;">16251</td><td style="width:60px;">16251</td><td style="width:60px;">24 Sep 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">12500</td><td style="width:60px;">12500</td><td style="width:60px;">12500</td><td style="width:60px;">20 Sep 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.30</td><td style="width:60px;">16900</td><td style="width:60px;">16900</td><td style="width:60px;">16900</td><td style="width:60px;">19 Sep 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.50</td><td style="width:60px;">16500</td><td style="width:60px;">17751</td><td style="width:60px;">17400</td><td style="width:60px;">17 Sep 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.60</td><td style="width:60px;">15901</td><td style="width:60px;">15901</td><td style="width:60px;">15901</td><td style="width:60px;">11 Sep 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.60</td><td style="width:60px;">14500</td><td style="width:60px;">17150</td><td style="width:60px;">16000</td><td style="width:60px;">05 Sep 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.60</td><td style="width:60px;">14100</td><td style="width:60px;">16426</td><td style="width:60px;">16200</td><td style="width:60px;">04 Sep 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.10</td><td style="width:60px;">11000</td><td style="width:60px;">18400</td><td style="width:60px;">17600</td><td style="width:60px;">24 Aug 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.20</td><td style="width:60px;">16051</td><td style="width:60px;">18400</td><td style="width:60px;">17700</td><td style="width:60px;">23 Aug 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.20</td><td style="width:60px;">10500</td><td style="width:60px;">17200</td><td style="width:60px;">15900</td><td style="width:60px;">18 Aug 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.60</td><td style="width:60px;">14500</td><td style="width:60px;">17000</td><td style="width:60px;">16000</td><td style="width:60px;">14 Aug 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">17400</td><td style="width:60px;">17400</td><td style="width:60px;">17400</td><td style="width:60px;">08 Aug 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.50</td><td style="width:60px;">16270</td><td style="width:60px;">16270</td><td style="width:60px;">16270</td><td style="width:60px;">07 Aug 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.00</td><td style="width:60px;">15500</td><td style="width:60px;">17750</td><td style="width:60px;">16500</td><td style="width:60px;">02 Aug 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.70</td><td style="width:60px;">10600</td><td style="width:60px;">17160</td><td style="width:60px;">16800</td><td style="width:60px;">01 Aug 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.40</td><td style="width:60px;">17000</td><td style="width:60px;">17000</td><td style="width:60px;">17000</td><td style="width:60px;">31 Jul 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.10</td><td style="width:60px;">16300</td><td style="width:60px;">17000</td><td style="width:60px;">16700</td><td style="width:60px;">23 Jul 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.30</td><td style="width:60px;">13000</td><td style="width:60px;">16351</td><td style="width:60px;">16200</td><td style="width:60px;">19 Jul 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.60</td><td style="width:60px;">14800</td><td style="width:60px;">16700</td><td style="width:60px;">14890</td><td style="width:60px;">13 Jul 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.30</td><td style="width:60px;">15200</td><td style="width:60px;">15200</td><td style="width:60px;">15200</td><td style="width:60px;">10 Jul 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.50</td><td style="width:60px;">12000</td><td style="width:60px;">16800</td><td style="width:60px;">16000</td><td style="width:60px;">06 Jul 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.60</td><td style="width:60px;">1000</td><td style="width:60px;">16875</td><td style="width:60px;">16000</td><td style="width:60px;">05 Jul 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">2.50</td><td style="width:60px;">13900</td><td style="width:60px;">15430</td><td style="width:60px;">14800</td><td style="width:60px;">20 Jun 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">14300</td><td style="width:60px;">14300</td><td style="width:60px;">14300</td><td style="width:60px;">19 Jun 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.40</td><td style="width:60px;">14400</td><td style="width:60px;">14400</td><td style="width:60px;">14400</td><td style="width:60px;">14 Jun 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">8000</td><td style="width:60px;">14411</td><td style="width:60px;">8000</td><td style="width:60px;">05 Jun 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">2.40</td><td style="width:60px;">12311</td><td style="width:60px;">13731</td><td style="width:60px;">13558</td><td style="width:60px;">31 May 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.70</td><td style="width:60px;">13000</td><td style="width:60px;">14610</td><td style="width:60px;">13900</td><td style="width:60px;">30 May 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">2.10</td><td style="width:60px;">12000</td><td style="width:60px;">14100</td><td style="width:60px;">13546</td><td style="width:60px;">29 May 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">13940</td><td style="width:60px;">13940</td><td style="width:60px;">13940</td><td style="width:60px;">24 May 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.50</td><td style="width:60px;">13100</td><td style="width:60px;">14300</td><td style="width:60px;">13300</td><td style="width:60px;">23 May 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.80</td><td style="width:60px;">13500</td><td style="width:60px;">14100</td><td style="width:60px;">13800</td><td style="width:60px;">22 May 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.90</td><td style="width:60px;">10402</td><td style="width:60px;">14250</td><td style="width:60px;">12900</td><td style="width:60px;">21 May 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.30</td><td style="width:60px;">14000</td><td style="width:60px;">14400</td><td style="width:60px;">14200</td><td style="width:60px;">19 May 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.60</td><td style="width:60px;">14350</td><td style="width:60px;">14780</td><td style="width:60px;">14451</td><td style="width:60px;">18 May 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.50</td><td style="width:60px;">13800</td><td style="width:60px;">14451</td><td style="width:60px;">14000</td><td style="width:60px;">17 May 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">2.30</td><td style="width:60px;">10100</td><td style="width:60px;">15000</td><td style="width:60px;">14151</td><td style="width:60px;">16 May 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.10</td><td style="width:60px;">13591</td><td style="width:60px;">14500</td><td style="width:60px;">14400</td><td style="width:60px;">14 May 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.30</td><td style="width:60px;">14000</td><td style="width:60px;">14000</td><td style="width:60px;">14000</td><td style="width:60px;">11 May 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">2.60</td><td style="width:60px;">11501</td><td style="width:60px;">14631</td><td style="width:60px;">12700</td><td style="width:60px;">09 May 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.90</td><td style="width:60px;">13400</td><td style="width:60px;">14500</td><td style="width:60px;">14000</td><td style="width:60px;">08 May 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.60</td><td style="width:60px;">13500</td><td style="width:60px;">14800</td><td style="width:60px;">13800</td><td style="width:60px;">07 May 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.10</td><td style="width:60px;">13500</td><td style="width:60px;">14800</td><td style="width:60px;">13801</td><td style="width:60px;">04 May 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.60</td><td style="width:60px;">11000</td><td style="width:60px;">14200</td><td style="width:60px;">13000</td><td style="width:60px;">03 May 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Medium</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.20</td><td style="width:60px;">14051</td><td style="width:60px;">14051</td><td style="width:60px;">14051</td><td style="width:60px;">02 May 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Medium</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.30</td><td style="width:60px;">12700</td><td style="width:60px;">14480</td><td style="width:60px;">13801</td><td style="width:60px;">01 May 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.70</td><td style="width:60px;">14702</td><td style="width:60px;">15700</td><td style="width:60px;">15151</td><td style="width:60px;">27 Apr 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.50</td><td style="width:60px;">8000</td><td style="width:60px;">15000</td><td style="width:60px;">14760</td><td style="width:60px;">26 Apr 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">2.70</td><td style="width:60px;">13350</td><td style="width:60px;">14911</td><td style="width:60px;">13500</td><td style="width:60px;">25 Apr 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.40</td><td style="width:60px;">11890</td><td style="width:60px;">14900</td><td style="width:60px;">13550</td><td style="width:60px;">23 Apr 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">14401</td><td style="width:60px;">14401</td><td style="width:60px;">14401</td><td style="width:60px;">21 Apr 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.20</td><td style="width:60px;">13700</td><td style="width:60px;">14201</td><td style="width:60px;">14000</td><td style="width:60px;">19 Apr 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.90</td><td style="width:60px;">13500</td><td style="width:60px;">14102</td><td style="width:60px;">13700</td><td style="width:60px;">17 Apr 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">2.40</td><td style="width:60px;">8700</td><td style="width:60px;">14700</td><td style="width:60px;">13051</td><td style="width:60px;">16 Apr 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.90</td><td style="width:60px;">12500</td><td style="width:60px;">14400</td><td style="width:60px;">13500</td><td style="width:60px;">13 Apr 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">2.70</td><td style="width:60px;">13000</td><td style="width:60px;">14500</td><td style="width:60px;">13500</td><td style="width:60px;">12 Apr 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.40</td><td style="width:60px;">14200</td><td style="width:60px;">15827</td><td style="width:60px;">14700</td><td style="width:60px;">11 Apr 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.00</td><td style="width:60px;">11500</td><td style="width:60px;">15200</td><td style="width:60px;">14000</td><td style="width:60px;">10 Apr 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.40</td><td style="width:60px;">13700</td><td style="width:60px;">15500</td><td style="width:60px;">14400</td><td style="width:60px;">07 Apr 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Medium</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">4.30</td><td style="width:60px;">13000</td><td style="width:60px;">15785</td><td style="width:60px;">14800</td><td style="width:60px;">06 Apr 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.50</td><td style="width:60px;">14200</td><td style="width:60px;">14500</td><td style="width:60px;">14350</td><td style="width:60px;">04 Apr 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.40</td><td style="width:60px;">5200</td><td style="width:60px;">14251</td><td style="width:60px;">11700</td><td style="width:60px;">27 Mar 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.50</td><td style="width:60px;">14101</td><td style="width:60px;">14650</td><td style="width:60px;">14500</td><td style="width:60px;">26 Mar 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.40</td><td style="width:60px;">13211</td><td style="width:60px;">14175</td><td style="width:60px;">13500</td><td style="width:60px;">23 Mar 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.40</td><td style="width:60px;">12400</td><td style="width:60px;">13776</td><td style="width:60px;">12500</td><td style="width:60px;">22 Mar 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.20</td><td style="width:60px;">10900</td><td style="width:60px;">14100</td><td style="width:60px;">13000</td><td style="width:60px;">21 Mar 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">4.90</td><td style="width:60px;">12900</td><td style="width:60px;">14000</td><td style="width:60px;">13300</td><td style="width:60px;">20 Mar 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.80</td><td style="width:60px;">12700</td><td style="width:60px;">14651</td><td style="width:60px;">13600</td><td style="width:60px;">17 Mar 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.30</td><td style="width:60px;">10800</td><td style="width:60px;">14000</td><td style="width:60px;">13000</td><td style="width:60px;">16 Mar 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.10</td><td style="width:60px;">13000</td><td style="width:60px;">13810</td><td style="width:60px;">13500</td><td style="width:60px;">15 Mar 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.10</td><td style="width:60px;">13351</td><td style="width:60px;">15001</td><td style="width:60px;">14500</td><td style="width:60px;">14 Mar 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">3.30</td><td style="width:60px;">11850</td><td style="width:60px;">14401</td><td style="width:60px;">13500</td><td style="width:60px;">12 Mar 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.50</td><td style="width:60px;">13400</td><td style="width:60px;">13400</td><td style="width:60px;">13400</td><td style="width:60px;">07 Mar 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">1.10</td><td style="width:60px;">11700</td><td style="width:60px;">14001</td><td style="width:60px;">13000</td><td style="width:60px;">06 Mar 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">2.60</td><td style="width:60px;">14001</td><td style="width:60px;">14696</td><td style="width:60px;">14500</td><td style="width:60px;">28 Feb 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Medium</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">14001</td><td style="width:60px;">14001</td><td style="width:60px;">14001</td><td style="width:60px;">16 Feb 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">16500</td><td style="width:60px;">16500</td><td style="width:60px;">16500</td><td style="width:60px;">05 Feb 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Desi</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">8.80</td><td style="width:60px;">1391</td><td style="width:60px;">1470</td><td style="width:60px;">1452</td><td style="width:60px;">30 Jan 2018</td>
+		</tr><tr>
+			<td style="width:60px;">Madhya Pradesh</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Neemuch</td><td style="width:60px;">Medium</td><td style="width:60px;">Spices</td><td align="right" style="width:60px;">0.10</td><td style="width:60px;">10600</td><td style="width:60px;">10600</td><td style="width:60px;">10600</td><td style="width:60px;">29 Jan 2018</td>
+		</tr>
+	</table>
+</div>
